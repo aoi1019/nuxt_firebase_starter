@@ -12,3 +12,4 @@ $ sudo rm -r .git
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 # nuxt_firebase_starter2
+# nuxt_firebase_starter2
